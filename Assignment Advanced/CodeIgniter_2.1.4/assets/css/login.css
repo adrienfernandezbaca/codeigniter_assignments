@@ -1,0 +1,48 @@
+.right
+{
+	float: right;
+}
+
+.left
+{
+	float: left;
+}
+.container
+{
+	max-width: none;
+	width: 970px;
+}
+
+.clear 
+{
+	clear: both;
+}
+
+#logout
+{
+	margin-right: 300px;
+	margin-top: 20px;
+}
+
+.edit_information
+{
+	width: 450px;
+	height: 350px;
+}
+
+textarea
+{
+	width: 900px;
+}
+
+.comments
+{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+#comment
+{
+	width: 500px;
+	height: 30px;
+}

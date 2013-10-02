@@ -1,0 +1,22 @@
+#container{
+	width:  900px;
+	margin: auto;
+}
+
+.registration {
+	width: 220px;
+	height: auto;
+	border: 1px solid black;
+}
+
+h3{
+	margin-top: 50px;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
